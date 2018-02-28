@@ -6,7 +6,7 @@ npm install -g gulp
 npm install -g less
 
 ## Clone 
-git clone https://github.com/sjgofe/sjgo-gulp-tpl
+git clone blablabla
 
 ## Install local modules
 npm install
